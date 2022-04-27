@@ -1,14 +1,23 @@
-1/ khởi tạo git
- -lệnh : git init
-2/ kiểm tra phiên bản git 
-- lệnh : git --version
+1/  git init: khởi tạo git
+
+2/ git --version :kiểm tra phiên bản git 
+
 3/ đưa code lên server gihub
-- lệnh : 
+
 + git add .
 + git commit -m "your comment"
 + git push origin master
-4/ lệnh kiểm tra trạng thái của git
-- lệnh : git status
+
+4/ git status: kiểm tra trạng thái của git
+
 5/ lệnh giúp git biết dc sẽ đưa code lên đâu
+
 - lệnh : git remote add {name} {url_github}
 - vd: git remote add origin https://github.com/jimmy-nguyen1/git-bc28.git 
+
+6/ git remote : kiem tra xem add remote thanh công chưa
+7/ git clone git@github.com:jimmy-nguyen1/git-bc28.git
+8/ git branch : kiểm tra có bn nhánh trên src code
+9/ git branch phu-header : tao nhánh mới
+
+10/ git checkout phu-head :chuyển nhánh để code tiếp
