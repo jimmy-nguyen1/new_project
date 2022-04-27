@@ -6,7 +6,7 @@
 - lệnh : 
 + git add .
 + git commit -m "your comment"
-+ git push
++ git push origin master
 4/ lệnh kiểm tra trạng thái của git
 - lệnh : git status
 5/ lệnh giúp git biết dc sẽ đưa code lên đâu
