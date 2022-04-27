@@ -21,4 +21,6 @@
 9/ git branch phu-header : tao nhánh mới
 
 10/ git checkout phu-head :chuyển nhánh để code tiếp
+
 11/ git merge phu head : kết hợp code của 2 nhánh *chú ý phải đúng ở nhánh *master
+12/ git pull | git pull origin master: mỗi ngày cần update src code mới nhất vào code local, để code tiếp cho chuẩn
